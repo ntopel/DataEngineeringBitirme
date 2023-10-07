@@ -4,17 +4,16 @@
 
 Table of Contents:
 
-Prerequisites
+Prerequisites:
 
-Installation
 
-Data Ingestion with Apache NiFi
+Data Ingestion with Apache NiFi,
 
-Data Streaming with Apache Kafka
+Data Streaming with Apache Kafka,
 
-Data Processing with Apache Spark
+Data Processing with Apache Spark,
 
-Data Warehousing with Google BigQuery
+Data Warehousing with Google BigQuery,
 
 Data Analysis with DBT
 
@@ -22,13 +21,13 @@ Data Analysis with DBT
 
 Prerequisites
 
-Java Development Kit (JDK) 8
-Apache NiFi
-Apache Kafka
-Apache Spark
-Google Cloud BigQuery
-DBT
-Installation
+Java Development Kit (JDK) 8,
+Apache NiFi,
+Apache Kafka,
+Apache Spark,
+Google Cloud BigQuery,
+DBT,
+Installation,
 Java Development Kit (JDK) 8
 
 
