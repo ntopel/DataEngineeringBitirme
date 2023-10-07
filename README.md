@@ -3,12 +3,19 @@
 
 
 Table of Contents:
+
 Prerequisites
+
 Installation
+
 Data Ingestion with Apache NiFi
+
 Data Streaming with Apache Kafka
+
 Data Processing with Apache Spark
+
 Data Warehousing with Google BigQuery
+
 Data Analysis with DBT
 
 
