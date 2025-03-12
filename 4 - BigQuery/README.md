@@ -1,6 +1,6 @@
 Big Query
 
-# opy the table for the new dbt database 
+# copy the table for the new dbt database 
 CREATE OR REPLACE TABLE `mindful-bivouac-395521.dbt_ntopel.table0` AS
 SELECT DISTINCT
   adi,
